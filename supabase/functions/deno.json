@@ -1,0 +1,7 @@
+{
+  "nodeModulesDir": "none",
+  "compilerOptions": {
+    "lib": ["deno.window", "dom"],
+    "types": ["./runtime.d.ts"]
+  }
+}

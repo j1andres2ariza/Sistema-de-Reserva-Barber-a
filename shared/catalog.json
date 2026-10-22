@@ -1,0 +1,46 @@
+[
+  {
+    "id": "recorte",
+    "name": "Recorte de cabello",
+    "price": 23000,
+    "duration": 40
+  },
+  {
+    "id": "recorte-tijera",
+    "name": "Recorte de cabello con tijera",
+    "price": 27000,
+    "duration": 40
+  },
+  {
+    "id": "recorte-barba",
+    "name": "Recorte de cabello + Barba",
+    "price": 34000,
+    "duration": 60
+  },
+  {
+    "id": "recorte-tijera-barba",
+    "name": "Recorte con Tijera + Barba",
+    "price": 38000,
+    "duration": 60
+  },
+  { "id": "cerquillo", "name": "Cerquillo", "price": 6000, "duration": 30 },
+  {
+    "id": "mascarilla-negra",
+    "name": "Mascarilla Black Mask",
+    "price": 4000,
+    "duration": 30
+  },
+  {
+    "id": "cerquillo-barba",
+    "name": "Cerquillo + Barba",
+    "price": 16000,
+    "duration": 30
+  },
+  { "id": "solo-barba", "name": "Solo Barba", "price": 12000, "duration": 30 },
+  {
+    "id": "aliser-lavado",
+    "name": "Aliser + lavado de cabello",
+    "price": 25000,
+    "duration": 30
+  }
+]
